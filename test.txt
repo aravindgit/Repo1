@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is 8076-3A8B
-
- Directory of C:\Users\Hi\Documents\Aravind\MyFirstGitProject
-
-28-06-2018  19:47    <DIR>          .
-28-06-2018  19:47    <DIR>          ..
-28-06-2018  19:47                 0 test.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  291,632,619,520 bytes free
+edited
